@@ -25,7 +25,7 @@ Using URL for production:
 ![image](https://user-images.githubusercontent.com/64729485/209447409-f60b573c-d4d9-44ae-84d8-92b6269fa050.png)
 ![image](https://user-images.githubusercontent.com/64729485/209447359-9e84cc8d-b35e-4165-8bbf-45904e5df881.png)
 
-One call quarter is allowed. Meaning:
+One call per quarter is allowed. Meaning:
 
  -a call at H:01  next call possible at H+15 + 1s  
  -a call at H:10  next call possible at H+15 +1s  
