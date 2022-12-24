@@ -28,11 +28,8 @@ Using URL for production:
 One call quarter is allowed. Meaning:
 
 -a call at H:01  next call possible at H+15 + 1s
-
 -a call at H:10  next call possible at H+15 +1s
-
 -a call at H:31  next call possible at H+45 +1s
-
 so it is not in elapse time, strange but it is what it is.
 
 ![image](https://user-images.githubusercontent.com/64729485/209450329-d7ef8d8c-5aae-433d-8506-011e2c7e9245.png)
