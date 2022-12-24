@@ -12,4 +12,5 @@ $ ./ecowatt.php
  second argument:                                                       
  local: information will be only displayed localy                       
  web: information will be displayed localy, generation for web done
- otherwise usage is displayed
+
+otherwise usage is displayed
