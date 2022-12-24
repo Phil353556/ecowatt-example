@@ -1,10 +1,6 @@
 # ecowatt-example
 Example of how to use the API made available by french compagny RTE
 
-This php script accepts and needs two parameters:
-first can be   prod or  sandbox
-second can be  local or web 
-
 $ ./ecowatt.php
  ---------------------------------------------------------------------- 
  Usage:  php ecowatt.php { prod | sandbox ] [ local | web ]             
