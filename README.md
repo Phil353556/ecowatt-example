@@ -34,7 +34,6 @@ One call quarter is allowed. Meaning:
 ![image](https://user-images.githubusercontent.com/64729485/209450329-d7ef8d8c-5aae-433d-8506-011e2c7e9245.png)
 
 
-
 Using URL for sandbox:
 
 ![image](https://user-images.githubusercontent.com/64729485/209450069-c2bd2923-6744-4094-872f-52bd777c916a.png)
