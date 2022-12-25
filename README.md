@@ -5,7 +5,7 @@ The goal is:
 
  to display values for the current day and the two days after (ie J, J+1, J+2),
 
- to create three images (png) as logo, that can be use where you want.
+ to create in the current directory, three images (png) as logo, that can be use where you want.
 
 Create an account, then register for this API:
 https://data.rte-france.com/catalog/-/api/consumption/Ecowatt/v4.0
