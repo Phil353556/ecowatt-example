@@ -6,12 +6,13 @@ https://data.rte-france.com/catalog/-/api/consumption/Ecowatt/v4.0
 ![image](https://user-images.githubusercontent.com/64729485/209450163-1126fd15-c855-4bd3-8608-7e46398d42b6.png)
 
 Create an application for this API
-![image](https://user-images.githubusercontent.com/64729485/209463945-22ec7214-a722-4826-aee1-bd9e3f1aaa31.png)
+ ![image](https://user-images.githubusercontent.com/64729485/209463945-22ec7214-a722-4826-aee1-bd9e3f1aaa31.png)
 
 Select this application and get the ID client and the ID secret  in base64
-![image](https://user-images.githubusercontent.com/64729485/209463966-4b4dd73c-cf32-440c-9c28-88b9f5e5c834.png)
+This is the only change to make in the script!
+ ![image](https://user-images.githubusercontent.com/64729485/209463966-4b4dd73c-cf32-440c-9c28-88b9f5e5c834.png)
 
-![image](https://user-images.githubusercontent.com/64729485/209464032-e1c4a30d-3c4f-489f-ab65-3ea9eb526f94.png)
+ ![image](https://user-images.githubusercontent.com/64729485/209464032-e1c4a30d-3c4f-489f-ab65-3ea9eb526f94.png)
 
 
 $ ./ecowatt.php
