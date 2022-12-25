@@ -2,7 +2,6 @@
 Example of how to use the API made available by french compagny RTE
 
 The goal is:
-
  to display values for the current day and the two days after (ie J, J+1, J+2),
  to create three images (png) as logo, that can be use where you want.
 
