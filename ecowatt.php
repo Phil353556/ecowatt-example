@@ -229,14 +229,14 @@ if ( $argc == 3 )
             echo " --------------------------------------------------------------------------------\n";
 	    echo " URL used will be the production one                                             \n";
 	    /* url production /  maximun of one call per 15 minutes 				     */
-  	    $url = "https://digital.iservices.rte-france.com/open_api/ecowatt/v4/signals";
+  	    $url = "https://digital.iservices.rte-france.com/open_api/ecowatt/v5/signals";
     }
     if ( $argv[1] == "sandbox" )
     {
             echo " --------------------------------------------------------------------------------\n";
 	    echo " URL used will be the sandbox one 					           \n";
 	    // url sandbox
-	    $url = "https://digital.iservices.rte-france.com/open_api/ecowatt/v4/sandbox/signals";
+	    $url = "https://digital.iservices.rte-france.com/open_api/ecowatt/v5/sandbox/signals";
     }
     if ( $argv[2] == "local" )
     {
